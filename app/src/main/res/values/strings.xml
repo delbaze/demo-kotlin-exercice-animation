@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo_fevrier_2023_student</string>
+    <string name="username">Username</string>
+    <string name="username_desc">Indiquez votre username</string>
+    <string name="phone_desc">Indiquez votre tel</string>
+    <string name="phone">Phone</string>
+    <string name="email_desc">Indiquez votre mail</string>
+    <string name="email">Email</string>
+    <string name="playing">A l\'affiche</string>
+    <string name="title">Blade Runner 2049</string>
+    <string name="desc">Sci-Fi - 2h43</string>
+    <string name="rating">Note: 4/5</string>
+</resources>
